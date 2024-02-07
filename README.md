@@ -2,7 +2,7 @@ Repositório para o material das aulas do curso de Programação Linear da Unive
 
 2024/1
 
-TURMA M1M2 (07:00 às 08:40)
+TURMA M3M4 (Terças e Quintas - 08:50 às 10:30)
 
 DATAS DAS PROVAS
 
