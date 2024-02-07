@@ -6,10 +6,10 @@ TURMA M3M4 (Terças e Quintas - 08:50 às 10:30)
 
 DATAS DAS PROVAS
 
-P1 - 16/04 (3a. f)
+P1 - 18/04 (5a. f)
 
-P2 - 18/06 (3a. f)
+P2 - 20/06 (5a. f)
 
-PR - 25/06 (3a. f)
+PR - 27/06 (5a. f)
 
-PF - 02/07 (3a. f)
+PF - 04/07 (5a. f)
