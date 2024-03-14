@@ -4,15 +4,15 @@ Repositório para o material das aulas do curso de Programação Linear da Unive
 
 TURMA M3M4 (Terças e Quintas - 08:50 às 10:30)
 
-DATAS DAS PROVAS
+DATAS DAS PROVAS (ATUALIZAÇÕES):
 
-P1 - 25/04 (5a. f)
+P1 - 30/04 (3a. Feira)
 
-P2 - 20/06 (5a. f)
+P2 - 18/06 (3a. Feira)
 
-PR - 27/06 (5a. f)
+PR - 25/06 (3a. Feira)
 
-PF - 04/07 (5a. f)
+PF - 02/07 (3a. Feira)
 
 OBS.: A prova de reposição (PR) substitui P1 ou P2 e NÃO É ABERTA. A PR somente será aplicada para alunos que faltaram à data de realização de uma das provas (P1 ou P2) e justificarem ausência por e-mail até a véspera da realização da PR.
 
