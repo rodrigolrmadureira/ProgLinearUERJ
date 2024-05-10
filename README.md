@@ -16,7 +16,7 @@ PF - 02/07 (3a. Feira)
 
 OBS.: A prova de reposição (PR) substitui P1 ou P2.
 
-Em função dos problemas ocorridos na UERJ neste semestre com os auxílios dos alunos, vou abrir uma exceção neste período e deixar a prova de reposição em aberto para P1 e P2.
+Em função dos problemas ocorridos na UERJ neste semestre com os auxílios dos alunos, vou abrir uma exceção neste período e deixar a prova de reposição em aberto para P1 ou P2.
 
 Ou seja, quem foi mal em uma das provas e quiser melhorar a nota, poderá ter uma nova chance.
 
