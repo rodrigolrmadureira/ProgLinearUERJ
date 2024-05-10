@@ -14,7 +14,15 @@ PR - 25/06 (3a. Feira)
 
 PF - 02/07 (3a. Feira)
 
-OBS.: A prova de reposição (PR) substitui P1 ou P2 e NÃO É ABERTA. A PR somente será aplicada para alunos que faltaram à data de realização de uma das provas (P1 ou P2) e justificarem ausência por e-mail até a véspera da realização da PR.
+OBS.: A prova de reposição (PR) substitui P1 ou P2.
+
+Em função dos problemas ocorridos na UERJ neste semestre com os auxílios dos alunos, vou abrir uma exceção neste período e deixar a prova de reposição em aberto para P1 e P2.
+
+Ou seja, quem foi mal em uma das provas e quiser melhorar a nota, poderá ter uma nova chance.
+
+Obs.: A REPOSIÇÃO É PARA SOMENTE UMA DAS PROVAS (P1 ou P2). NÃO VALE PARA AS DUAS PROVAS SIMULTANEAMENTE.
+
+
 
 DATAS DE ENTREGAS DOS TRABALHOS:
 
